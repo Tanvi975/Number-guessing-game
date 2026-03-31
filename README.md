@@ -14,4 +14,4 @@ This is a simple C++ game where user play with computer.
 <br>
 <h3>How to compile:</h3>
 <br>
-compile and the .cpp file with any compiler
+compile and run the .cpp file with any compiler
